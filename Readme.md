@@ -45,11 +45,10 @@ The report contains the vulnerability analysis, attack methodology, trust-bounda
 
 ## Walkthrough Video
 
-The assessment walkthrough video is available here:
+The assessment walkthrough video is available here: https://youtu.be/yyer8iSbuPE
 
-[Watch the Assessment Walkthrough](YOUR_YOUTUBE_LINK)
 
-A backup copy/link is also provided in:
+A backup copy/link is also provided in: https://drive.google.com/drive/folders/1UhxkvYgNYywDD4fWaX4h9sEkLfrkOsi_?usp=sharing
 
 `video/README.md`
 
