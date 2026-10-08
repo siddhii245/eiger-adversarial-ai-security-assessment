@@ -30,7 +30,7 @@ Security assessment of the Eiger Adversarial-AI Security Lab, focusing on the Ig
 | M5 | Completed — Core |
 | M6 | Completed |
 | M7 | Completed |
-| M8 | Completed — including Stretch |
+| M8 | Completed |
 | Capstone | Completed — Core |
 
 An IDOR vulnerability was also identified during M2 and documented as a separate access-control finding.
